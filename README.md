@@ -1,6 +1,6 @@
 # quarkus-bug-15014 project
 
-This is a reproducer of the bug #15014.
+This is a reproducer of the bug https://github.com/quarkusio/quarkus/issues/15014.
 
 `./mvnw clean verify -Dquarkus.version=1.11.2.Final` // Succeed
 
